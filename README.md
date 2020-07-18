@@ -1,1 +1,3 @@
-# my_study_tools
+A STUDY TOOLS REPOSITORY
+
+一个存放学习工具的仓库
