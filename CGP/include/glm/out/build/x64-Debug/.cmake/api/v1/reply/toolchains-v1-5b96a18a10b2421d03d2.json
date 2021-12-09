@@ -1,0 +1,135 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/mingw/include",
+						"C:/mingw/lib/gcc/i686-w64-mingw32/4.8.3/include",
+						"C:/mingw/lib/gcc/i686-w64-mingw32/4.8.3/include-fixed",
+						"C:/mingw/i686-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/mingw/lib/gcc/i686-w64-mingw32/4.8.3",
+						"C:/mingw/lib/gcc",
+						"C:/mingw/i686-w64-mingw32/lib",
+						"C:/mingw/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "C:/mingw/bin/cc.exe",
+				"version" : "4.8.3"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/mingw/include",
+						"C:/mingw/include/c++/4.8.3",
+						"C:/mingw/include/c++/4.8.3/i686-w64-mingw32",
+						"C:/mingw/include/c++/4.8.3/backward",
+						"C:/mingw/lib/gcc/i686-w64-mingw32/4.8.3/include",
+						"C:/mingw/lib/gcc/i686-w64-mingw32/4.8.3/include-fixed",
+						"C:/mingw/i686-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/mingw/lib/gcc/i686-w64-mingw32/4.8.3",
+						"C:/mingw/lib/gcc",
+						"C:/mingw/i686-w64-mingw32/lib",
+						"C:/mingw/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "C:/mingw/bin/c++.exe",
+				"version" : "4.8.3"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/mingw/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
