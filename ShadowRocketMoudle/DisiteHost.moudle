@@ -1,0 +1,71 @@
+
+#!name=DlsiteHost
+#!desc=Dlsite直连Hosts
+#!author=NineSnow
+
+[Host]
+
+# DLsite
+## download.sangfor.com.cn
+trial.dlsite.com = 113.194.58.93
+trial.dlsite.com = 139.215.254.75
+img.dlsite.jp = 113.194.58.93
+img.dlsite.jp = 139.215.254.75
+media.dlsite.com = 113.194.58.93
+media.dlsite.com = 139.215.254.75
+media.ci-en.jp = 113.194.58.93
+media.ci-en.jp = 139.215.254.75
+media.stg.ci-en.jp = 113.194.58.93
+media.stg.ci-en.jp = 139.215.254.75
+file.chobit.cc = 113.194.58.93
+file.chobit.cc = 139.215.254.75
+img.chobit.cc = 113.194.58.93
+img.chobit.cc = 139.215.254.75
+## j.sni.global.fastly.net
+ssl.dlsite.com = 151.101.110.132
+www.dlsite.com = 151.101.110.132
+www.nijiyome.com = 151.101.110.132
+www.nijiyome.jp = 151.101.110.132
+download.dlsite.com = 151.101.110.132
+play.dl.dlsite.com = 151.101.110.132
+## login.dlsite.com
+login.dlsite.com = 18.181.100.115
+login.dlsite.com = 54.92.114.173
+## www.dlsite.com
+ssl.dlsite.com = 14.0.32.69
+ssl.dlsite.com = 14.128.0.118
+ssl.dlsite.com = 138.113.77.50
+www.dlsite.com = 14.0.32.69
+www.dlsite.com = 14.128.0.118
+www.dlsite.com = 138.113.77.50
+www.nijiyome.com = 14.0.32.69
+www.nijiyome.com = 14.128.0.118
+www.nijiyome.com = 138.113.77.50
+www.nijiyome.jp = 14.0.32.69
+www.nijiyome.jp = 14.128.0.118
+www.nijiyome.jp = 138.113.77.50
+download.dlsite.com = 14.0.32.69
+download.dlsite.com = 14.128.0.118
+download.dlsite.com = 138.113.77.50
+ssl.dlsite.com = 163.171.229.207
+ssl.dlsite.com = 163.171.233.140
+ssl.dlsite.com = 174.35.74.121
+www.dlsite.com = 163.171.229.207
+www.dlsite.com = 163.171.233.140
+www.dlsite.com = 174.35.74.121
+www.nijiyome.com = 163.171.229.207
+www.nijiyome.com = 163.171.233.140
+www.nijiyome.com = 174.35.74.121
+www.nijiyome.jp = 163.171.229.207
+www.nijiyome.jp = 163.171.233.140
+www.nijiyome.jp = 174.35.74.121
+download.dlsite.com = 163.171.229.207
+download.dlsite.com = 163.171.233.140
+download.dlsite.com = 174.35.74.121
+## ci-en.dlsite.com
+ci-en.dlsite.com = 54.64.83.213
+ci-en.dlsite.com = 13.112.250.198
+## play.dlsite.com
+play.dlsite.com = 13.112.94.94
+play.dlsite.com = 54.178.105.202
+play.dlsite.com = 13.114.205.226
